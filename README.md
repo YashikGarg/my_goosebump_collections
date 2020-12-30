@@ -1,16 +1,44 @@
-# my_goosebumps
+# 👻 My Goosebumps Collection
 
-A new Flutter application.
+Hey there !!!! I am really big fan of goosebumps specially game books which have such amazing stories and so many alternative ending . 
 
-## Getting Started
+So i made app that have all collections of Goosebumps Volume 1 and Give Yourself Goosebumps !!!!
 
-This project is a starting point for a Flutter application.
+I divided books into two sections :- <br>
+➡ Game Books<br>
+➡ Story Books
 
-A few resources to get you started if this is your first Flutter project:
+And I Try To Clone Google Play Book UI for this app!!
+___
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# 🛠⚙ Try On Your Own Mobile 
+Download This - Click [Here](https://drive.google.com/file/d/17nOakoKATZJpmC_apcnj2SJBfiUM78VE/view?usp=sharing) To Download
+And Run This App On Your Mobile
+___
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎥 Video
+⏩ - 2x
+<br><br>
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/sample.gif" width="300">
+___
+
+# 📸 Screenshots
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/1.jpeg" width="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/2.jpeg" width="300" >
+<br><br>
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/3.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/4.jpeg" width="300" style="border-radius: 15px">
+<br><br>
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/5.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/6.jpeg" width="300" style="border-radius: 15px">
+<br><br>
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/7.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/8.jpeg" width="300" style="border-radius: 15px">
+
+___
+
+# 😇 Dependecies
+
+<b>auto_size_text: </b><a href="https://pub.dev/packages/auto_size_text">^2.1.0</a>
+
+<b>epub_viewer: </b><a href="https://pub.dev/packages/epub_viewer">^0.1.9</a>
+
+___
+
+> if you love ❣ my work please drop a star ⭐ 👼
