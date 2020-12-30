@@ -4,15 +4,19 @@ Hey there !!!! I am really big fan of goosebumps specially game books which have
 
 So i made app that have all collections of Goosebumps Volume 1 and Give Yourself Goosebumps !!!!
 
-I divided books into two sections :- <br>
+I divided books into two sections :-
+
 ➡ Game Books<br>
 ➡ Story Books
 
 And I Try To Clone Google Play Book UI for this app!!
+
+Enjoy Reading 📖🤤🤤!!!!
 ___
 
 # 🛠⚙ Try On Your Own Mobile 
-Download This - Click [Here](https://drive.google.com/file/d/17nOakoKATZJpmC_apcnj2SJBfiUM78VE/view?usp=sharing) To Download
+
+<b>Download This</b> - Click [Here](https://drive.google.com/file/d/17nOakoKATZJpmC_apcnj2SJBfiUM78VE/view?usp=sharing) To Download
 And Run This App On Your Mobile
 ___
 
@@ -23,13 +27,13 @@ ___
 ___
 
 # 📸 Screenshots
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/1.jpeg" width="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/2.jpeg" width="300" >
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/1.jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/2.jpeg" width="250" >
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/3.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/4.jpeg" width="300" style="border-radius: 15px">
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/3.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/4.jpeg" width="250" style="border-radius: 15px">
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/5.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/6.jpeg" width="300" style="border-radius: 15px">
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/5.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/6.jpeg" width="250" style="border-radius: 15px">
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/7.jpeg" width="300" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/8.jpeg" width="300" style="border-radius: 15px">
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/7.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/8.jpeg" width="250" style="border-radius: 15px">
 
 ___
 
