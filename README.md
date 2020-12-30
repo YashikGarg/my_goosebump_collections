@@ -1,6 +1,6 @@
 # 👻 My Goosebumps Collection
 
-Hey there !!!! I am really big fan of goosebumps specially game books which have such amazing stories and so many alternative ending . 
+<b>Hey there !!!! </b>I am really big fan of goosebumps specially game books which have such amazing stories and so many alternative ending . 
 
 So i made app that have all collections of Goosebumps Volume 1 and Give Yourself Goosebumps !!!!
 
@@ -11,7 +11,7 @@ I divided books into two sections :-
 
 And I Try To Clone Google Play Book UI for this app!!
 
-Enjoy Reading 📖🤤🤤!!!!
+<b><i>Enjoy Reading 📖🤤🤤</i></b>!!!!
 ___
 
 # 🛠⚙ Try On Your Own Mobile 
