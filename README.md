@@ -4,14 +4,14 @@
 
 So i made app that have all collections of Goosebumps Volume 1 and Give Yourself Goosebumps !!!!
 
-I divided books into two sections :-
+<b>I divided books into two sections :-</b>
 
-➡ Game Books<br>
-➡ Story Books
+➡ <i>Game Books</i><br>
+➡ <i>Story Books</i>
 
 And I Try To Clone Google Play Book UI for this app!!
 
-<b><i>Enjoy Reading 📖🤤🤤</i></b>!!!!
+<b><i>Enjoy Reading 📖🤤🤤!!!!</i></b>
 ___
 
 # 🛠⚙ Try On Your Own Mobile 
