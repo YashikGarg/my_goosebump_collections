@@ -23,18 +23,15 @@ ___
 # 🎥 Video
 ⏩ - 2x
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/sample.gif" width="300">
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/sample (1).gif" width="300">
 ___
 
 # 📸 Screenshots
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/1.jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/2.jpeg" width="250" >
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/1.jpeg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/2.jpeg" width="250" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/8.jpeg" width="250" style="border-radius: 15px">
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/3.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/4.jpeg" width="250" style="border-radius: 15px">
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/3.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/4.jpeg" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/5.jpeg" width="250" style="border-radius: 235px">
 <br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/5.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/6.jpeg" width="250" style="border-radius: 15px">
-<br><br>
-<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/7.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/8.jpeg" width="250" style="border-radius: 15px">
-
+<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/6.jpeg" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/7.jpeg" width="250" style="border-radius: 235px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/YashikGarg/my_goosebump_collections/blob/master/assets/sample/9.png" width="250" style="border-radius: 235px">
 ___
 
 # 😇 Dependecies
